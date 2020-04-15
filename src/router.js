@@ -6,7 +6,7 @@ import EventShow from './views/EventShow.vue'
 
 Vue.use(Router)
 
-export default new Router({,
+export default new Router({
   mode: "history",
   routes: [
     {
